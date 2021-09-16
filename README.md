@@ -1,6 +1,10 @@
-# YOU JUST GOT COCONUT MALLED
+# AN INFECTIOUS CORNBASE
 
-* Run the COPY.bat file to copy the VBS.vbs and runVBS.bat onto the users startup file
-* Run the DELETE.bat file to remove VBS.vbs and runVBS.bat from the users startup file
-* Running runVBS.bat simply runs the VBS.vbs script since Windows does not run .vbs files upon startup
-* Running VBS.vbs will silently open whatever URL is on line 3 as many times as specified on line 9 of VBS.vbs
+* COPY: Double click to install the virus
+* DELETE: Double click to remove the virus
+* RUNVBS: This file opens the virus without letting keeping the command promopt open along with being the only way for windows to find the virus to open on startup
+* VBS: The virus 
+  * LINE 8: The URL that is played 
+  * LINE 14: The last number refers to the number of times the program will open the tabs on LINE 17 
+  * LINE 17: The number of tabs that will open in a given execution, eg. if Line 17 is 5, every x seconds there will be 5 tabs open
+  * LINE 25: The number is the miliseconds that the program waits before opening tabs again, at 10000 this means the program will wait 10 seconds inbetween execution
